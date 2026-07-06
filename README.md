@@ -12,8 +12,8 @@ of 2026: same playbook, new frontier. I build autonomous LLM systems to prove it
 - **[retrowave](https://github.com/olkuznetsov/retrowave)** — a shipped retro-gaming platform (React · EmulatorJS · Cloudflare R2 · Firebase).
 
 ### 🛠️ I work with
-`Python` · `TypeScript / React` · LLM APIs (multi-provider, agents, tool-use) · prompt & eval design ·
-`ffmpeg` automation · WalkMe / Glide (DAP) · `Docker` · Cloudflare
+`Python` · `JavaScript / TypeScript` · `React` · LLM APIs (multi-provider, agents, tool-use) ·
+prompt & eval design · `ffmpeg` automation · WalkMe / Glide (DAP) · `Docker` · Cloudflare
 
 ### 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/olkuznetsov/) · olkuznetsov.mail@gmail.com
