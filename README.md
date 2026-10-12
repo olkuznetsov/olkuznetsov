@@ -1,7 +1,7 @@
 ## Hi, I'm Oleksandr (Sasha) 👋
 
 **Digital Adoption Engineer → AI / LLM Engineer.**
-For ~7 years I've made enterprise software actually get *used* — deep WalkMe & Glide work,
+For ~7 years I've made enterprise software actually get *used* — deep WalkMe work, then our own DAP product FLOW,
 turning "we bought a tool nobody opens" into real adoption. AI is the biggest adoption problem
 of 2026: same playbook, new frontier. I build autonomous LLM systems to prove it.
 
@@ -13,7 +13,7 @@ of 2026: same playbook, new frontier. I build autonomous LLM systems to prove it
 
 ### 🛠️ I work with
 `Python` · `JavaScript / TypeScript` · `React` · LLM APIs (multi-provider, agents, tool-use) ·
-prompt & eval design · `ffmpeg` automation · WalkMe / Glide (DAP) · `Docker` · Cloudflare
+prompt & eval design · `ffmpeg` automation · WalkMe / FLOW (DAP) · `Docker` · Cloudflare
 
 ### 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/olkuznetsov/) · olkuznetsov.mail@gmail.com
