@@ -7,7 +7,7 @@ of 2026: same playbook, new frontier. I build autonomous LLM systems to prove it
 
 ### 🔭 Featured work
 - **[llm-trading-agent](https://github.com/olkuznetsov/llm-trading-agent)** — a *multi-agent* LLM trading system: four specialized "brains" that trade, learn from outcomes, and **self-tune their own config**. Architecture & engineering case study.
-- **[ambiverse-studio](https://github.com/olkuznetsov/ambiverse-studio)** — local mission-control web app (**FastAPI + React/TS**) for an AI content pipeline: job queue with live logs, media browser, and per-world channel analytics.
+- **[ambiverse-studio](https://github.com/olkuznetsov/ambiverse-studio)** — local mission-control web app (**FastAPI + React/TS**) for an AI content pipeline: job queue with live logs, media browser, and per-world channel analytics. Runs as a self-contained demo with one command; tested in CI.
 - **[trading-assistant-extension](https://github.com/olkuznetsov/trading-assistant-extension)** — Chrome extension that analyzes live charts with Claude (bring-your-own-key).
 - **[retrowave](https://github.com/olkuznetsov/retrowave)** — a shipped retro-gaming platform (React · EmulatorJS · Cloudflare R2 · Firebase).
 
